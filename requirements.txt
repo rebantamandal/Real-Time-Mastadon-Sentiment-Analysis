@@ -1,0 +1,9 @@
+kafka-python
+streamlit
+matplotlib
+pandas
+bs4
+mastodon.py
+textblob
+nltk
+pyspark
